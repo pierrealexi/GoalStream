@@ -24,7 +24,8 @@ MonProjet/
 
 
 - `frontend/` : code Next.js  
-- `backend/` : code Go  
+- `backend/` : code Go
+- `backend/` : documentation
 - Les deux sont des **submodules Git**.
 
 ---
