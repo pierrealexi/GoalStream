@@ -18,6 +18,7 @@ Ce dépôt centralise les deux parties du projet : front-end (Next.js) et back-e
 MonProjet/
 │-- frontend/ # Submodule Next.js
 │-- backend/ # Submodule Go
+│-- docs/ Submodule docs
 │-- README.md
 │-- docker-compose.yml (optionnel)
 
